@@ -1,0 +1,31 @@
+{
+  "name": "aklora",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "react-markdown": "latest",
+    "remark-gfm": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "16.2.6",
+    "typescript": "latest"
+  },
+  "overrides": {
+    "postcss": "8.5.10"
+  }
+}

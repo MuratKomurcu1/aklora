@@ -22,7 +22,7 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "eslint": "latest",
-    "eslint-config-next": "16.2.6",
+    "eslint-config-next": "16.3.0",
     "typescript": "latest"
   },
   "overrides": {
